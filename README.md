@@ -6,7 +6,12 @@ GOLDENCheat is an autoclicker that I made, it works pretty well!
 
 ### How to use
 
-In releases, find the latest version of GOLDENCheat, download the .exe and run it! Now you can have fun with a really cool autoclicker!
+- In releases, find the latest version of GOLDENCheat
+- Download the .zip
+- Extract All
+- Go through the folders until you see "GOLDENCheat.exe"
+- Run "GOLDENCheat.exe"
+You now have GOLDENCheat installed!
 
 ## PSB (Pxsl's Spam Bot)
 PSB Is a tool that I made which will spam ANYONE with ANYTHING, make sure that there is no rate limiter though!
